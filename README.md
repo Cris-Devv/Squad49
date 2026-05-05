@@ -9,7 +9,7 @@ Este repositório centraliza a documentação, o planejamento e o acompanhamento
 Para manter a organização, utilizamos estruturas híbridas de armazenamento:
 
 * **[Drive de Referências]([https://drive.google.com/drive/folders/1jwiWYUx3-khq4baXhKheSWBQSDIwogHE?usp=drive_link):** Repositório de projetos e Kick-offs antigos para consulta e padrões de qualidade.
-* **[Drive de Produção]((https://drive.google.com/drive/folders/1jwiWYUx3-khq4baXhKheSWBQSDIwogHE?usp=drive_link):** Pasta colaborativa para edição de arquivos, artes e documentos em tempo real.
+* **[Drive de Produção](https://drive.google.com/drive/folders/1_fB7-yEjNAgiR_vnlLCfNIrq9GxMquem?usp=drive_link):** Pasta colaborativa para edição de arquivos, artes e documentos em tempo real.
 
 ---
 
@@ -38,9 +38,9 @@ Baseado no cronograma oficial, nosso foco está dividido em duas fases principai
 ---
 
 ## 👥 Equipe
-* **Nome 1** - [GitHub Profile]
-* **Nome 2** - [GitHub Profile]
-* **Nome 3** - [GitHub Profile]
-
+* **Nome 1** - [GitHub Profile]                 **Nome 5** - [GitHub Profile]  
+* **Nome 2** - [GitHub Profile]                 **Nome 6** - [GitHub Profile]  
+* **Nome 3** - [GitHub Profile]                 **Nome 7** - [GitHub Profile]          **Nome 9** - [GitHub Profile]
+* **Nome 4** - [GitHub Profile]                 **Nome 8** - [GitHub Profile]          **Nome 10** - [GitHub Profile]
 ---
 *Este projeto utiliza Inteligência Artificial como ferramenta de suporte. O relatório de prompts e ferramentas utilizadas pode ser encontrado na pasta `/docs`.*
