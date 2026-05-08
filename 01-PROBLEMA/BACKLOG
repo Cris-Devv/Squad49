@@ -1,0 +1,24 @@
+Product backlog
+
+
+1. Módulo de Integração e Notificação (Ponte Maternidade-UBS)
+ >Identificação de Risco: Implementar lógica para identificar automaticamente crianças de risco na maternidade com base nos protocolos de saúde.
+  >Serviço de Notificações: Desenvolver sistema de envio automático de Push e SMS para o Agente Comunitário de Saúde (ACS) responsável pela área.
+   >Sincronização de Dados: Criar a camada de integração para eliminar a fragmentação de dados entre a rede hospitalar e a municipal.
+2. Identidade Digital e Acesso Rápido (QR Code)
+ >Geração de QR Code: Desenvolver gerador de QR Code vinculado à Caderneta da Criança ou ao aplicativo da família.
+  >Resumo Clínico Crítico: Estruturar a exibição de dados essenciais (peso ao nascer, idade gestacional, intercorrências na UTI e alergias) ao escanear o código.
+    >Acesso Offline: Implementar tecnologia para garantir que o resumo clínico possa ser acessado por profissionais mesmo em áreas sem internet.
+3. Gestão e Monitoramento (Dashboard de Busca Ativa)
+ >Sistema Semáforo: Codificar a lógica visual para gestores:
+    Verde: Consultas e vacinas em dia.
+    Amarelo: Consulta agendada para os próximos 3 dias.
+    Vermelho: Faltas confirmadas ou vacinas atrasadas.
+  >Lembretes Automáticos: Automatizar o envio de mensagens de lembrete para os pais sobre compromissos de saúde.
+4. Experiência do Usuário (Interface e Mobilidade)
+  >Registro Offline para ACS: Desenvolver funcionalidade que permita ao ACS registrar dados de visitas domiciliares sem conexão, com sincronização automática via Wi-Fi.
+    >Interface Simplificada: Criar uma camada de visualização intuitiva com foco no que é urgente, 
+5. Infraestrutura e Segurança
+  >Segurança LGPD: Implementar criptografia de ponta a ponta para todos os dados transmitidos e armazenados.
+    >Controle de Acesso: Restringir o acesso via QR Code apenas a profissionais de saúde devidamente autorizados.
+
