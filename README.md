@@ -11,7 +11,7 @@ Para manter a organização, utilizamos estruturas híbridas de armazenamento:
 * **[Drive de Referências](https://drive.google.com/drive/folders/1jwiWYUx3-khq4baXhKheSWBQSDIwogHE?usp=drive_link):** Repositório de projetos e Kick-offs antigos para consulta.
 * **[Drive de Produção](https://drive.google.com/drive/folders/1_fB7-yEjNAgiR_vnlLCfNIrq9GxMquem?usp=drive_link):** Pasta colaborativa para edição de arquivos e artes em tempo real.
 * **[Sync Log (Diário de Bordo)](https://docs.google.com/document/d/1X49fVvkWKcsANKhJNYfpm2N0K4DHYC-n0W20sSge658/edit?usp=sharing):** Registro de discussões e decisões tomadas em reunião.
-
+* [Figma Team](https://www.figma.com/team_invite/redeem/loVIj8Nr71SiLSsHdpoAkl?t=CNoxAsXGhHAUDNCH-21): Espaço de prototipagem visual
 ---
 
 ## 🛠️ Entregáveis (Checklist de Sucesso)
