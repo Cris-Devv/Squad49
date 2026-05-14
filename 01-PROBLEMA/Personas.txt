@@ -1,0 +1,24 @@
+Personas:
+
+
+1 . Sandra, a Enfermeira da UTI Neonatal (O Ponto de Origem)
+*   Perfil: 42 anos, trabalha em uma grande maternidade pública do Recife. É responsável pela alta de bebês de alta complexidade.
+*  A Necessidade: Garantir que o bebê prematuro extremo, ao sair da UTI, seja recebido pela rede municipal com o oxigênio e a fisioterapia agendados.
+*   A Dor: Sandra perde horas preenchendo fichas manuais de transferência e ligando para distritos sanitários. Frequentemente, a mãe volta à emergência com o bebê em crise porque a USF nem sabia que a criança tinha tido alta.
+*   Relação com a Tecnologia: Usa o prontuário do hospital, mas ele é "fechado". Sente que o sistema atual é um muro, não uma ponte.
+*   O que o nosso sistema faz por ela: Automatiza a notificação de alta diretamente para o PEC da USF de destino. Assim que Sandra clica em "Alta" no hospital, o bebê já aparece com *alerta vermelho* na tela da enfermeira do bairro.
+
+---
+2. Kauê, o Recém-Nascido com Asfixia Perinatal (O Alvo do Cuidado)
+*   Perfil:  Bebê de 15 dias. Nasceu com asfixia grave, precisou de reanimação e agora apresenta episódios de convulsão controlada. Vive em uma área de ocupação em Jaboatão dos Guararapes.
+*   A Necessidade: Monitoramento rigoroso do perímetro cefálico e desenvolvimento motor para evitar sequelas permanentes.
+*   A Dor: O sistema "esqueceu" Kauê. A mãe, menor de idade e sem rede de apoio, não sabe da gravidade e não consegue marcar o neurologista pediátrico porque a ficha de encaminhamento se perdeu no fluxo manual.
+*  Relação com a Tecnologia: Inexistente por parte da família (apenas um celular com Wi-Fi instável). Depende totalmente da busca ativa do Agente Comunitário de Saúde (ACS).
+*  O que o nosso sistema faz por ele:Através da geolocalização e integração de dados, o sistema emite um alerta automático no tablet do ACS da área de Kauê, obrigando uma visita domiciliar em até 48h pós-alta, garantindo que o bebê não se torne "invisível"
+
+3. Joana, a Médica.
+* Perfil: 29 anos, recém-formada, atende em uma unidade de saúde rural no interior de Pernambuco.
+* A Necessidade: Saber exatamente quais são as crianças de "Risco Bio-Psicossocial" da sua lista de pacientes para priorizar a agenda.
+* A Dor: Joana atende 40 pessoas por dia. No sistema atual, ela precisa abrir prontuário por prontuário para descobrir quem é prematuro ou filho de mãe adolescente. Às vezes, descobre o risco tarde demais, numa consulta de rotina que já deveria ter sido uma consulta de urgência.
+* Relação com a Tecnologia: Gosta de tecnologia, mas se sente frustrada com a lentidão e a necessidade de digitar a mesma informação em três sistemas diferentes (PEC, CIDRISCO e fichas de papel).
+* O que o nosso sistema faz por ela: Integração total. Quando Joana abre o PEC, o sistema já puxa os dados do CIDRISCO e coloca a criança de risco no topo da lista de chamadas do dia, com um resumo da internação neonatal (problemas de asfixia, peso ao nascer), sem que ela precise procurar
