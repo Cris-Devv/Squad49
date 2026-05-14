@@ -1,0 +1,30 @@
+1. Objetivo do fluxo
+O objetivo é garantir que toda criança identificada como de risco na maternidade seja automaticamente conectada à rede municipal, com alerta,
+busca ativa e acompanhamentocontínuo.
+
+2. Entrada do processo
+O processo começa na maternidade, quando Sandra realiza a alta do recém-nascido de risco. Nessa etapa, o sistema reconhece o evento e transforma a
+alta em uma notificação automática.
+
+3. Integração com a rede
+A informação segue para a UBS correta, com integração ao PEC e às bases de risco. Isso evita perdas entre hospital, território e atenção básica.
+
+4. Busca ativa
+Ao receber o alerta, o ACS passa a atuar no território com prioridade. Em casos de maior risco, a visita domiciliar
+precisa ocorrer rapidamente, idealmente em até 48 horas.
+
+5. Priorização clínica
+Na UBS, Joana encontra a criança já destacada na agenda. O sistema mostra um resumo dos dados mais importantes, como asfixia,
+prematuridade, peso ao nascer e outros marcadores de risco.
+
+6. Seguimento contínuo
+Depois da primeira ação, o caso continua sendo monitorado por dashboard, semáforo de risco, acompanhamento de vacinas e consultas.
+A família deixa de depender apenas da memória ou da sorte para continuar o cuidado.
+
+7. Problema que o fluxo resolve
+Esse fluxo resolve a falta de integração entre maternidade e UBS, o retrabalho manual, a perda de dados e a
+invisibilidade de crianças de risco após a alta. Também reduz o atraso na identificação e no encaminhamento.
+
+8. Resultado esperado
+O resultado esperado é uma rede que age antes da piora, com mais agilidade, mais coordenação e menos perda de seguimento.
+O bebê sai da maternidade já dentro do radar da atenção básica.
