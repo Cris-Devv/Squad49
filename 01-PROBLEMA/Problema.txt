@@ -1,1 +1,1 @@
-O AGD integra maternidades e UBS em tempo real. Através de uma identidade digital via QR Code com acesso offline a dados clínicos e alertas automáticos para os Agentes Comunitários (ACS), esse sistema garante a busca ativa e a continuidade do cuidado.
+O fluxo do SVCR falha após a alta das maternidades no Recife. A falta de integração com as UBS, dados fragmentados e sistemas complexos geram um gap de comunicação crítico, fazendo com que recém-nascidos de risco se percam na rede de saúde daqui.
